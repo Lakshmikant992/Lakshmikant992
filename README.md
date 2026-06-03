@@ -72,8 +72,8 @@ Prodigy Infotech (Jun 2025 – Nov 2025)
 ## 📫 Connect With Me
 
 - Email: hs412241@gmail.com
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- GitHub: https://github.com/Lakshmikant992 i
+- LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/lakshmikant-shukla-554311289?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ## ⚡ Fun Fact
 
