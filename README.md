@@ -1,18 +1,80 @@
-# 💫 About Me:
-Online Library Management System (overview & design)<br><br>Student Management System<br><br>E-commerce website: features and security<br><br>Attendance management using software systems<br><br>Role of AI in education<br><br>Digital transformation in India
+# Hi 👋, I'm Lakshmikant Shukla
 
+🎓 MCA Student at Sandip University  
+💻 Aspiring Software Developer | Python Developer | Full-Stack Enthusiast  
+📍 India
 
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lakshmikant992&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Lakshmikant992&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmikant992&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🚀 About Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Lakshmikant992&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I am an MCA student with a strong foundation in Python, SQL, and Software Development Life Cycle (SDLC). I enjoy building software applications, solving coding challenges, and learning modern development technologies.
 
----
-[![](https://visitcount.itsvg.in/api?id=Lakshmikant992&icon=0&color=0)](https://visitcount.itsvg.in)
+I have practical experience in database management, web development, API development, and application maintenance. I am passionate about creating scalable and efficient software solutions while continuously improving my technical skills.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Python
+- Java
+- JavaScript
+- C++
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+- React
+- Angular
+
+### Backend & Frameworks
+- Django
+- Spring Boot
+- REST APIs
+
+### Databases
+- MySQL
+- PostgreSQL
+
+### Tools & Technologies
+- Git
+- GitHub
+- SDLC
+- Debugging & Testing
+
+## 📂 Featured Projects
+
+### 🫁 AI-Based Lung Cancer Detection
+- Developed a machine learning-based application for lung cancer prediction.
+- Upload CT scan images for disease analysis.
+- Applied AI/ML techniques for medical image classification.
+
+### 💼 Online Job Portal
+- Job posting and application platform.
+- Resume upload functionality.
+- User-friendly recruitment workflow.
+
+## 💼 Experience
+
+**Application Developer Intern**  
+Prodigy Infotech (Jun 2025 – Nov 2025)
+
+- Worked with SQL databases.
+- Maintained and updated existing applications.
+- Collaborated with development teams on software projects.
+
+## 🌱 Currently Learning
+
+- Advanced Data Structures & Algorithms
+- Spring Boot Development
+- Full Stack Development
+- System Design
+- Cloud Technologies
+
+## 📫 Connect With Me
+
+- Email: hs412241@gmail.com
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+
+## ⚡ Fun Fact
+
+I enjoy solving coding problems, building real-world applications, and exploring new technologies to enhance my software development skills.
